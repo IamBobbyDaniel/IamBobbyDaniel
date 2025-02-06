@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IamBobbyDaniel
-- 👀 I’m interested in Coding and Design
-- 🌱 I’m currently learning Frontend Development
+- 👋 Hi, I’m Bobby Daniel
+- 👀 I’m Data Analyst, Blockchain Analyst and a Product Designer
+- 🌱 I’m a Web3 Enthusiast
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me Linkedin@Bobby Daniel Emma
 
